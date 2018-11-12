@@ -4,7 +4,7 @@ by Spotify
 
 ## Hipótesis
 
-A través de un producto para niños menores de 8 años, enfocado a adultos con hij@s o que conviva con niñ@s pequeñ@s, lograríamos aumentar en 10% el número de suscriptores Premium para Spotify en los próximos 6 meses.
+A través de un producto para niños menores de 8 años, enfocado a adultos con hij@s o que conviva con niñ@s pequeñ@s, lograríamos aumentar el número de suscriptores Premium para Spotify en los próximos 6 meses.
 
 ## Un gran problema
 
